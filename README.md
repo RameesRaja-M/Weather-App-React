@@ -14,4 +14,4 @@ Styling: Tailwind CSS, CSS
 Hosting: Vercel
 Version Control: Git and GitHub
 Live Demo:
-Visit the Live Weather App on Vercel (Add your live link here)
+Visit the Live Weather App on Vercel (https://weather-app-react-blue-psi.vercel.app/landing)
